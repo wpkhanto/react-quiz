@@ -24,5 +24,5 @@ function FinishScreen({ points, maxPossiblePoints, highscore, dispatch }) {
         </>
     );
 }
-
+ 
 export default FinishScreen;
